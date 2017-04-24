@@ -1,11 +1,21 @@
 {
-  "name": "ull-shape-triangulo-ivan-ga",
-  "version": "1.0.2",
+  "name": "@ivan-ga/ull-shape-triangulo-ivan-ga",
+  "version": "1.0.0",
   "description": "",
   "main": "triangle.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/ull-shape-ivan-ga-triangulo.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-ivan-ga-triangulo/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-ivan-ga-triangulo#readme"
 }

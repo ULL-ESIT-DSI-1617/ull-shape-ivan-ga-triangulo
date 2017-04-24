@@ -1,5 +1,5 @@
 "use strict"
-let Shape = require('ull-shape-ivan-ga');
+let Shape = require('@ivan-ga/ull-shape-ivan-ga');
 
 class Triangle extends Shape {
     constructor(options) {
