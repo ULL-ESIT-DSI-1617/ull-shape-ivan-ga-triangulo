@@ -5,7 +5,8 @@
   "main": "triangle.js",
   "dependencies": {
     "mocha": "^3.3.0",
-    "should": "^11.2.1"
+    "should": "^11.2.1",
+	"@ivan-ga/ull-shape-ivan-ga": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
