@@ -1,6 +1,6 @@
 "use strict"
-let Sh = require('@ivan-ga/ull-shape-ivan-ga');
-let Shape = Sh.Shape
+let Shape = require('@ivan-ga/ull-shape-ivan-ga');
+
 
 class Triangle extends Shape {
     constructor(options) {
